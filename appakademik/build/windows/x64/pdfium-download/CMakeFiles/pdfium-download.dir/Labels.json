@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/pdfium-download"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/b19f7d09226b6a8b382470da4d77d5df/pdfium-download.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/5840d50e4ecc4aacc3bdae661ea04ff8/pdfium-download-complete.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/71925c94d2cc1acd3f8916cfa95b0a67/pdfium-download-build.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/71925c94d2cc1acd3f8916cfa95b0a67/pdfium-download-configure.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/71925c94d2cc1acd3f8916cfa95b0a67/pdfium-download-download.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/71925c94d2cc1acd3f8916cfa95b0a67/pdfium-download-install.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/71925c94d2cc1acd3f8916cfa95b0a67/pdfium-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/71925c94d2cc1acd3f8916cfa95b0a67/pdfium-download-patch.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/71925c94d2cc1acd3f8916cfa95b0a67/pdfium-download-test.rule"
+		},
+		{
+			"file" : "C:/FlutterSDK/android/appakademik/build/windows/x64/pdfium-download/CMakeFiles/71925c94d2cc1acd3f8916cfa95b0a67/pdfium-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pdfium-download"
+		],
+		"name" : "pdfium-download"
+	}
+}

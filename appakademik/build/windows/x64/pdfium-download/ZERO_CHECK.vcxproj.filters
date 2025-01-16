@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\b19f7d09226b6a8b382470da4d77d5df\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B8187D5E-3CEF-3B26-9D10-0D0E990A09BD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

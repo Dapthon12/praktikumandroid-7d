@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\CMakeFiles\c6c92928b8ae6e3b880c369b202cd93f\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B0A0F168-B969-3CA7-A437-94CCFC3FE083}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\71925c94d2cc1acd3f8916cfa95b0a67\pdfium-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\71925c94d2cc1acd3f8916cfa95b0a67\pdfium-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\71925c94d2cc1acd3f8916cfa95b0a67\pdfium-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\71925c94d2cc1acd3f8916cfa95b0a67\pdfium-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\71925c94d2cc1acd3f8916cfa95b0a67\pdfium-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\71925c94d2cc1acd3f8916cfa95b0a67\pdfium-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\71925c94d2cc1acd3f8916cfa95b0a67\pdfium-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\71925c94d2cc1acd3f8916cfa95b0a67\pdfium-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\5840d50e4ecc4aacc3bdae661ea04ff8\pdfium-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\b19f7d09226b6a8b382470da4d77d5df\pdfium-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\FlutterSDK\android\appakademik\build\windows\x64\pdfium-download\CMakeFiles\pdfium-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B8187D5E-3CEF-3B26-9D10-0D0E990A09BD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
